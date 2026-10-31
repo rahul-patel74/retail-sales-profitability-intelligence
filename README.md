@@ -91,7 +91,7 @@ These are preliminary observations and will be investigated further through SQL 
 
 - [x] Data Understanding
 - [x] Data Cleaning and Validation
-- [ ] SQL Business Analysis
+- [x] SQL Business Analysis
 - [ ] Python Exploratory Data Analysis
 - [ ] Power BI Dashboard
 - [ ] Final Business Recommendations

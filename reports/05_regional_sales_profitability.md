@@ -24,6 +24,8 @@
 
 ## 2. State-Level Performance
 
+The analysis covers 49 geographical entries, comprising 48 U.S. states and the District of Columbia.
+
 ### Strongest States
 
 | State | Total Sales | Total Profit | Profit Margin |
